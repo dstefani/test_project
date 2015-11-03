@@ -2,4 +2,5 @@ This text file should be version controlled.
 Now I'm going to commit the second version.
 
 There is also a python script now..
+It says Hi and multiplies two numbers, but there seems to be some bug :(
 
